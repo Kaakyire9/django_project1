@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-yum=(%(6ou1&$8d-39(-lfmdfny5%7-(x4=$0jt!#xj-)#aq2*'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['800-nielmc-django-project-lxqprmm3qz.us2.codeanyapp.com','.herokuapp.com']
 
